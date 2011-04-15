@@ -14,6 +14,7 @@ public class HomePage extends MainPage {
     private static final Logger logger = LoggerFactory.getLogger(HomePage.class);
 
     public HomePage(final PageParameters parameters) {
+       
         super(parameters);
 
     }
